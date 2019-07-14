@@ -1,4 +1,4 @@
-## Um buscador de receitas pelo site [a link](https://www.tudoreceitas.com) ##
+## Um buscador de receitas pelo site [tudoreceitas](https://www.tudoreceitas.com) ##
 
 ### Nota:
 
